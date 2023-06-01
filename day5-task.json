@@ -1,0 +1,49 @@
+{
+  "name": "Deeptesh Arvind Chaudhari",
+  "email": "deepteshchaudhari@gmail.com",
+  "contact": "+91 8181031212",
+  "address": "Pune, Maharastra 411001",
+  "linkedin": "linkedin.com/in/deeptesh0chaudhari",
+  "portfolio": "",
+  "objective": "To obtain a challenging Full Stack Web Developer position in a reputable organization where I can apply my skills and knowledge to develop innovative and efficient web applications.",
+  "educationalQualifications": [
+    {
+      "degree": "SSC",
+      "school": "K. Narkhede High School",
+      "board": "State Board",
+      "yearOfPassing": "2013"
+    },
+    {
+      "degree": "DIPLOMA",
+      "school": "Trimurti College, Jalgaon",
+      "board": "MSBTEB",
+      "yearOfPassing": "2016"
+    },
+    {
+      "degree": "B.E",
+      "school": "K.C.E's College of Engineering",
+      "university": "KBCNM University",
+      "yearOfPassing": "2023",
+      "status": "appearing"
+    },
+    {
+      "title": "FSW",
+      "institution": "Zen Classes (IIT Madras)"
+    }
+  ],
+  "skills": [
+    "Proficient in full-stack web development technologies, including HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB.",
+    "Strong problem-solving skills.",
+    "Good communication skills.",
+    "Time management skills.",
+    "Leadership skills."
+  ],
+  "projects": [
+    {
+      "title": "Portfolio",
+      "description": "Description",
+      "technologiesUsed": "HTML css Tailwind js",
+      "link": "Link"
+    }
+  ]
+}
